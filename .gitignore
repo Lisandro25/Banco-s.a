@@ -1,0 +1,8 @@
+/.metadata/
+/.recommenders/
+*.component
+TP_INTEGRADOR_GRUPO1/.classpath
+*.log
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+TP_INTEGRADOR_GRUPO1/.classpath
+TP_INTEGRADOR_GRUPO1/.settings/org.eclipse.wst.common.component
